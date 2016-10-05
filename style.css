@@ -136,6 +136,9 @@ aside {
 .no-margin {
   margin: 0;
 }
+.no-top-margin {
+  margin-top: 0;
+}
 .no-left-pad {
   padding-left: 0;
 }

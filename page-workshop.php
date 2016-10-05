@@ -23,7 +23,7 @@ get_header();
           <div class="col-lg-8 col-lg-offset-2 wow fadeInUp" data-wow-delay=".05s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
             <h2 class="text-purple-primary">How to Book Yourself Without an Agent</h2>
             <div class="row">
-              <div class="col-sm-6 no-left-pad">
+              <div class="col-sm-12 no-left-pad">
                 <p class="text-purple-primary">
                   Want to book better gigs, get super organized, and compose a sustainable
                   career? Then this two-hour workshop is designed for you—the independent
@@ -35,20 +35,12 @@ get_header();
                   your agent. Or you've tried being a do-it-yourselfer and wondered
                   if you were missing something huge. You probably were.
                 </p>
-              </div>
-              <div class="col-sm-6 no-right-pad">
                 <p class="text-purple-primary">
                   This workshop will take a disarmingly honest look at what it takes
                   to propel your career forward and give you the tools and strategies
-                  to start right now. Here’s an overview of the program:here. The support
-                  wasn’t there. The fantasy of making music while someone else took care
-                  of your career has vanished. You’ve tried to promote and book yourself,
-                  but it’s slow going and money’s still tight. You’re frustrated
-                  and you don’t know what to do.
+                  to start right now.
                 </p>
-                <p class="text-purple-primary">
-                  Here’s an overview of the program:
-                </p>
+              </div>
               </div>
             </div>
           </div>
@@ -60,6 +52,7 @@ get_header();
       <div id="workshop-bullets" class="row text-white">
         <div class="col-md-7 col-md-offset-3 col-sm-8 col-sm-offset-2 col-xs-12">
           <div class="wow fadeInUp" data-wow-delay=".05s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+            <h3 class="no-top-margin">Here’s an overview of the program:</h3>
             <ul>
               <li>Finding your niche (or inventing one)</li>
               <li>Presenters: five types, six phases</li>
