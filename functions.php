@@ -60,11 +60,11 @@
 
   function get_footer_class() {
     if (is_front_page()) {
-      return "text-purple-primary";
+      return "text-purple-primary links-purple";
     } elseif (is_home()) {
-      return 'bg-md-purple text-white';
+      return 'bg-md-purple text-white links-white';
     } else {
-      return "text-purple-primary";
+      return "text-purple-primary links-purple";
     }
   }
 

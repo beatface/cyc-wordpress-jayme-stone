@@ -19,7 +19,7 @@
             <div class="col-xs-7 col-sm-3">
               <p>CONTACT</p>
               <p class="footer-p">Jayme Stone</p>
-              <p class="footer-p"><a href="mailto:info@composeyourcareer.org?Subject=Compose%20Your%20Career" class="text-purple-primary">info@composeyourcareer.com</a></p>
+              <p class="footer-p"><a href="mailto:info@composeyourcareer.org?Subject=Compose%20Your%20Career">info@composeyourcareer.org</a></p>
               <p class="footer-p">composeyourcareer.org</p>
             </div>
             <div class="hidden-xs col-sm-3">

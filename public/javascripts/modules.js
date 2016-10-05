@@ -143,7 +143,7 @@ $(document).ready(function() {
         </div>
         <div class="row">
           <ul>
-            <li>show talk with successful publicists</li>
+            <li>shop talk with successful publicists</li>
             <li>singular stories from standout DIY musicians</li>
             <li>innovative ideas at the forefront of technology and entrepreneurship</li>
             <li>a reality check from music presenters and promoters</li>

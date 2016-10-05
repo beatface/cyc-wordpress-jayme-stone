@@ -7,6 +7,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title><?php wp_title(''); ?></title>
+    <link rel="image_src" href="<?php echo esc_url( get_template_directory_uri() ); ?>/public/img/large/jayme_site_image.jpg" / >
     <link rel="stylesheet" href="<?php echo esc_url( get_template_directory_uri() ); ?>/public/lib/bootstrap/dist/css/bootstrap.css" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css">

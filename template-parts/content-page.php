@@ -19,11 +19,9 @@
 				'after'  => '</div>',
 			) );
 		?>
-		<div class="row post-details">
-			<p class="blog-post-meta"><span class="post-date text-purple-primary"><?php echo get_the_date('F, j, Y'); ?></span> By <?php the_author(); ?> </p>
-		</div>
+
 		<div class="row breathing-room">
-			<a href="#" class="btn bg-purple-primary post-button">HAVE YOU HEARD ABOUT THE ONLINE COURSE?</a>
+			<a href="<?php the_field('blog_post_sale_link'); ?>" class="btn bg-purple-primary post-button"><?php the_field('blog_post_sale_button'); ?></a>
 		</div>
 	</div><!-- .entry-content -->
 

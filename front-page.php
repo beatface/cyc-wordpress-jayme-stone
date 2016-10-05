@@ -58,7 +58,7 @@
               By An Independent Musician
             </h2>
             <h5>
-              (THAT'S ME, <a href="http://jaymestone.com/" class="text-white underlined">JAYME STONE</a>)
+              (THAT'S ME, <a href="http://jaymestone.com/" class="text-white underlined" target="_blank">JAYME STONE</a>)
             </h5>
           </div>
         </div>
@@ -76,7 +76,7 @@
               Maybe you’ve already tried being a do-it-yourselfer, so you know all too well how
               hard it is to figure things out. You probably wondered if you were missing something huge. You were.
               <br><br>
-              And you’re not alone. Most musicians are sailing along in dark when it comes to their
+              And you’re not alone. Most musicians are sailing along in the dark when it comes to their
               careers (though, they say “a smooth sea never made a good sailor”).
               <br><br>
               This comprehensive course changes that. Compose Your Career is for musicmakers like you
@@ -94,7 +94,7 @@
               model is fundamentally different than that of a record label or booking agency. The good news? We
               have more latitude, choice, and creative freedom than ever before.
               <br><br>
-              Compose your career puts tools and resources back into the hands of independent musicians. It
+              Compose Your Career puts tools and resources back into the hands of independent musicians. It
               shows musicmakers that their career is the ultimate improvisation—the grand music project that includes businesscraft too.
             </p>
           </div>
@@ -187,14 +187,14 @@
             <h3 class="text-teal">Course Details</h3>
             <div class="row">
               <div class="col-sm-6 no-left-pad">
-                Composed Your Career is a six-week online course that teaches you,
+                Compose Your Career is a six-week online course that teaches you,
                 step-by-step, how to create a sustainable music career, get super-organized,
                 and craft a savvy business so your music can thrive in the world—whether
                 you’re currently a hobbyist or already a touring pro and no matter what kind of music you make.
               </div>
               <div class="col-sm-6 no-right-pad">
                 This is not your standard Music Business 101 course. It’s based on a peer-to-peer
-                model (one-on-the-ground-musician-to-another, not ex-industry-pro-to-musician)
+                model (one on-the-ground-musician to another, not ex-industry-pro to musician)
                 and celebrates design, aesthetics, and imagination.
                 <br><br>
                 <p class="text-teal">
@@ -328,7 +328,7 @@
             As a banjoist, I’ve made six albums and won two Juno and three Canadian
             Folk Music Awards. I’ve booked myself successfully for fifteen years at venues
             ranging from the Lincoln and Kennedy Centres to Bumbershoot and the
-            Vancouver Folk Festival. I pride myself on doing a better job than most agents.
+            Vancouver Folk Festival.
             <br><br>
             As artists, I believe we can do a better job of representing ourselves and
             managing our own careers than most agents and managers because no one will
@@ -381,7 +381,7 @@
         <div class="row">
           <div class="col-lg-12 text-center text-purple-primary">
             <h2>
-              What People Said About Jayme Stone
+              What People Say About Jayme Stone
               <br>
               & The Workshop That Started It All
             </h2>

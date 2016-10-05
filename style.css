@@ -43,7 +43,7 @@ body {
   font-family: BrownRegular, 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #F05F40;
+  border-color: #aa9cbf;
   border-width: 3px;
   max-width: 50px;
 }
@@ -54,11 +54,11 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #F05F40;
+  color: #aa9cbf;
 }
 a:hover,
 a:focus {
-  color: #eb3812;
+  color: #aa9cbf;
 }
 h1,
 h2,
@@ -159,7 +159,7 @@ aside {
   padding: 0;
 }
 #menu-footer-menu.footer-ul a:hover {
-  color: #eb3812;
+  color: #aa9cbf;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -201,6 +201,12 @@ aside {
 }
 .underlined {
   text-decoration: underline;
+}
+#contact.links-white a {
+  color: white;
+}
+#contact.links-purple a {
+  color: #292E5E;
 }
 
 /******************************************** SECTIONS ************************/
@@ -480,6 +486,11 @@ aside {
     height: auto;
     max-height: 100px;
   }
+  #testimonials p,
+  #testimonials .quote-container p,
+  #two-testimonials-section p {
+    font-size: 13px;
+  }
 }
 
 
@@ -522,6 +533,9 @@ aside {
 .entry-header {
   text-align: left;
   margin-top: 25px;
+}
+h1.entry-title {
+  font-size: 44px !important;
 }
 .post-details .post-date {
   text-transform: uppercase;;
@@ -603,7 +617,7 @@ ul.pager li > a {
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-  color: #eb3812;
+  color: #aa9cbf;
 }
 .navbar-default .nav > li > a,
 .navbar-default .nav > li > a:focus {
@@ -615,7 +629,7 @@ ul.pager li > a {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #F05F40;
+  color: #aa9cbf;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
@@ -654,11 +668,11 @@ button.navbar-toggle.collapsed {
     border-color: rgba(34, 34, 34, 0.05);
   }
   .navbar-default.affix .navbar-header .navbar-brand {
-    color: #F05F40;
+    color: #aa9cbf;
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #aa9cbf;
   }
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
@@ -666,7 +680,7 @@ button.navbar-toggle.collapsed {
   }
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
-    color: #F05F40;
+    color: #aa9cbf;
   }
 }
 header {
@@ -800,7 +814,7 @@ header .intro-heading {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #F05F40;
+  color: #aa9cbf;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
@@ -856,8 +870,8 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: white;
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #aa9cbf;
+  border-color: #aa9cbf;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -895,11 +909,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #aa9cbf;
+  border-color: #aa9cbf;
 }
 .btn-primary .badge {
-  color: #F05F40;
+  color: #aa9cbf;
   background-color: white;
 }
 .btn {

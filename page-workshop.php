@@ -127,7 +127,7 @@ get_header();
         <div class="row">
           <div class="col-lg-12 text-center text-purple-primary">
             <h3>
-              What People Said About Jayme Stone
+              What People Say About Jayme Stone
               <br>
               & The Workshop That Started It All
             </h3>
@@ -170,7 +170,7 @@ get_header();
         </div>
       </div>
       <div class="row bg-orange">
-        <div class="col-sm-8 col-sm-offset-2 text-purple-primary">
+        <div class="col-sm-8 col-sm-offset-2 text-purple-primary tall-div">
           <div class="quote-container">
             <p class="wow fadeInUp quote" data-wow-delay=".05s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
               “Jayme Stone’s ‘How to Book Yourself Without an Agent’ is a must-do for

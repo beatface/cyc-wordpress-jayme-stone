@@ -71,7 +71,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #f05f40;
+    border-color: #aa9cbf;
     border-width: 3px;
 }
 
@@ -80,7 +80,7 @@ hr.light {
 }
 
 a {
-    color: #f05f40;
+    color: #aa9cbf;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -88,7 +88,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #aa9cbf;
 }
 
 h1,
@@ -107,7 +107,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: #aa9cbf;
 }
 
 .bg-secondary {
@@ -165,12 +165,12 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #f05f40;
+    color: #aa9cbf;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #aa9cbf;
 }
 
 .navbar-default .nav > li>a,
@@ -183,12 +183,12 @@ aside {
 
 .navbar-default .nav > li>a:hover,
 .navbar-default .nav>li>a:focus:hover {
-    color: #f05f40;
+    color: #aa9cbf;
 }
 
 .navbar-default .nav > li.active>a,
 .navbar-default .nav>li.active>a:focus {
-    color: #f05f40!important;
+    color: #aa9cbf!important;
     background-color: transparent;
 }
 
@@ -229,12 +229,12 @@ aside {
 
     .navbar-default.affix .navbar-header .navbar-brand {
         font-size: 14px;
-        color: #f05f40;
+        color: #aa9cbf;
     }
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        color: #aa9cbf;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -244,7 +244,7 @@ aside {
 
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #f05f40;
+        color: #aa9cbf;
     }
 }
 
@@ -418,7 +418,7 @@ header .header-content .header-content-inner p {
 }
 
 .text-primary {
-    color: #f05f40;
+    color: #aa9cbf;
 }
 
 .no-gutter > [class*=col-] {
@@ -480,9 +480,9 @@ fieldset[disabled] .btn-default.active {
 }
 
 .btn-primary {
-    border-color: #f05f40;
+    border-color: #aa9cbf;
     color: #fff;
-    background-color: #f05f40;
+    background-color: #aa9cbf;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -523,12 +523,12 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-    border-color: #f05f40;
-    background-color: #f05f40;
+    border-color: #aa9cbf;
+    background-color: #aa9cbf;
 }
 
 .btn-primary .badge {
-    color: #f05f40;
+    color: #aa9cbf;
     background-color: #fff;
 }
 
